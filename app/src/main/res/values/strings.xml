@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioPlayer</string>
+    <string name="desc">Логотип приложения</string>
+    <string name="text_song_name">Nirvana - Smells Like Teen Spirit</string>
+    <string name="text_first_time_song">0:00</string>
+    <string name="text_last_time_song">3:55</string>
+
+    <string name="start_play">Воспроизвести аудио</string>
+    <string name="stop_audio">Остановить аудио</string>
+</resources>
